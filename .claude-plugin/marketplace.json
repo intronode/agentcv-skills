@@ -1,0 +1,25 @@
+{
+  "name": "agentcv",
+  "owner": {
+    "name": "Intronode",
+    "url": "https://agentcv.ai"
+  },
+  "metadata": {
+    "description": "The AgentCV skill: document the AI agent team you run, and optionally register it on agentcv.ai.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agentcv",
+      "source": "./",
+      "description": "Document the AI agent team you already run (TEAM.md with an org chart), optionally register it on agentcv.ai after your review, or write inert starter drafts from a public AgentCV team's structure.",
+      "category": "productivity",
+      "tags": [
+        "agent-teams",
+        "documentation",
+        "multi-agent",
+        "agentcv"
+      ]
+    }
+  ]
+}

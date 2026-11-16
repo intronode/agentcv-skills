@@ -1,0 +1,13 @@
+{
+  "name": "agentcv",
+  "description": "Document the AI agent team you already run (TEAM.md with an org chart), optionally register it on agentcv.ai after your review, or write inert starter drafts from a public AgentCV team's structure.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Intronode",
+    "url": "https://agentcv.ai"
+  },
+  "homepage": "https://agentcv.ai/skill",
+  "repository": "https://github.com/intronode/agentcv-skills",
+  "license": "MIT-0",
+  "keywords": ["agent-teams", "documentation", "multi-agent", "agentcv"]
+}
